@@ -1,10 +1,4 @@
-/**
-* Template Name: EstateAgency
-* Updated: Sep 18 2023 with Bootstrap v5.3.2
-* Template URL: https://bootstrapmade.com/real-estate-agency-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 (function() {
   "use strict";
 
@@ -103,7 +97,7 @@
    * Intro Carousel
    */
   new Swiper('.intro-carousel', {
-    speed: 600,
+    speed: 800,
     loop: true,
     autoplay: {
       delay: 3000,
