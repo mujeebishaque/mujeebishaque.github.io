@@ -97,7 +97,7 @@
    * Intro Carousel
    */
   new Swiper('.intro-carousel', {
-    speed: 800,
+    speed: 900,
     loop: true,
     autoplay: {
       delay: 3000,
