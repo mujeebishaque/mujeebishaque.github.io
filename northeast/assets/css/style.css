@@ -2158,3 +2158,6 @@ footer .copyright-footer {
 footer .credits {
   font-size: 14px;
 }
+.text-shadow-white {
+  text-shadow: 2px 2px 4px #eee;
+}
