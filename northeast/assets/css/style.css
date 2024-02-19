@@ -287,6 +287,10 @@ a:hover {
   padding-top: 4rem;
 }
 
+.section-t2 {
+  padding-top: 2rem;
+}
+
 @media (max-width: 767px) {
   .section-t4 {
     padding-top: 2rem;
