@@ -97,7 +97,7 @@
    * Intro Carousel
    */
   new Swiper('.intro-carousel', {
-    speed: 900,
+    speed: 600,
     loop: true,
     effect: "fade",
     autoplay: {
