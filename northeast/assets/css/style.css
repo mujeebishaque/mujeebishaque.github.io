@@ -2178,3 +2178,36 @@ footer .credits {
 .text-shadow-white {
   text-shadow: 2px 2px 4px #eee;
 }
+
+.navbar-brand img {
+  max-width: 100%;
+  height: auto;
+}
+
+@media (min-width: 576px) {
+  /* Adjust logo size for small devices (≥576px) */
+  .navbar-brand img {
+    max-width: 80px;
+  }
+}
+
+@media (min-width: 768px) {
+  /* Adjust logo size for medium devices (≥768px) */
+  .navbar-brand img {
+    max-width: 140px;
+  }
+}
+
+@media (min-width: 992px) {
+  /* Adjust logo size for large devices (≥992px) */
+  .navbar-brand img {
+    max-width: 350px;
+  }
+}
+
+@media (min-width: 1200px) {
+  /* Adjust logo size for extra large devices (≥1200px) */
+  .navbar-brand img {
+    max-width: 380px;
+  }
+}
