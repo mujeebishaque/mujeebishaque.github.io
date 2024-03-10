@@ -99,16 +99,17 @@
   new Swiper('.intro-carousel', {
     speed: 900,
     loop: true,
+    effect: "fade",
     autoplay: {
       delay: 3000,
       disableOnInteraction: false
     },
     slidesPerView: 'auto',
-    pagination: {
-      el: '.swiper-pagination',
-      type: 'bullets',
-      clickable: true
-    }
+    // pagination: {
+    //   el: '.swiper-pagination',
+    //   type: 'bullets',
+    //   clickable: true
+    // }
   });
 
   /**
