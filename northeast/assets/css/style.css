@@ -2214,3 +2214,13 @@ footer .credits {
 .margin-six {
   margin: 6px;
 }
+.btn-main {
+  background-color: #242d5e;
+  color: white;
+  border-radius: 0 !important;
+}
+.btn-main:hover {
+  background-color: white;
+  color: #242d5e;
+  border-radius: 0 !important;
+}
