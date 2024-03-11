@@ -2217,10 +2217,10 @@ footer .credits {
 .btn-main {
   background-color: #242d5e;
   color: white;
-  border-radius: 2 !important;
+  border-radius: 1 !important;
 }
 .btn-main:hover {
   background-color: white;
   color: #242d5e;
-  border-radius: 2 !important;
+  border-radius: 1 !important;
 }
