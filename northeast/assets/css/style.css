@@ -781,13 +781,13 @@ a:hover {
 
 .navbar-default .dropdown .dropdown-menu .dropdown-item:hover {
   background-color: #ffffff;
-  color: #2eca6a;
+  color: #242d5e;
   transition: all 500ms ease;
 }
 
 .navbar-default .dropdown .dropdown-menu .dropdown-item.active {
   background-color: #ffffff;
-  color: #2eca6a;
+  color: #242d5e;
 }
 
 .navbar-default .dropdown:hover .dropdown-menu {
