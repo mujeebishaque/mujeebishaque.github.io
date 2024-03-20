@@ -2226,3 +2226,10 @@ footer .credits {
   border-radius: 1 !important;
   font-size: 16px;
 }
+
+.raleway-navbar {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
